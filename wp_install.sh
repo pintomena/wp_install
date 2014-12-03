@@ -10,7 +10,7 @@
 db_name='db_name'
 db_user='db_usr'
 db_pass='db_pass'
-db_prefix='jks'
+db_prefix='jks_'
 
 # WordPress vars
 wp_locale='es_ES'
